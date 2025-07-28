@@ -1,0 +1,154 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947"
+    },
+    {
+      "id": 2,
+      "title": "Mastering Web Development",
+      "slug": "mastering-web-development",
+      "description": "From HTML to React, become a web developer in 12 weeks.",
+      "price": 149.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1581091012184-7a4f070d89b0"
+    },
+    {
+      "id": 3,
+      "title": "Digital Photography Basics",
+      "slug": "digital-photography-basics",
+      "description": "Capture stunning photos with any camera. Learn light, framing, and exposure.",
+      "price": 89.0,
+      "instructor": "Carlos Santana",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70"
+    },
+    {
+      "id": 4,
+      "title": "Yoga for Everyone",
+      "slug": "yoga-for-everyone",
+      "description": "A calming course for all levels. Improve flexibility and reduce stress.",
+      "price": 59.99,
+      "instructor": "Priya Mehta",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1554310605-21bdb92c0c45"
+    },
+    {
+      "id": 5,
+      "title": "Advanced Excel Techniques",
+      "slug": "advanced-excel-techniques",
+      "description": "Master formulas, pivot tables, and automation with Excel.",
+      "price": 79.99,
+      "instructor": "Michael Scott",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1611955242529-94fbd1d47c62"
+    },
+    {
+      "id": 6,
+      "title": "Cooking Like a Pro",
+      "slug": "cooking-like-a-pro",
+      "description": "Learn gourmet cooking with easy-to-follow recipes and techniques.",
+      "price": 69.99,
+      "instructor": "Gordon Ramsay",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051"
+    },
+    {
+      "id": 7,
+      "title": "Introduction to AI",
+      "slug": "introduction-to-ai",
+      "description": "Get started with artificial intelligence, machine learning, and neural networks.",
+      "price": 129.99,
+      "instructor": "Sarah Tan",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1581092334654-d194cb7a1ba0"
+    },
+    {
+      "id": 8,
+      "title": "Creative Writing Essentials",
+      "slug": "creative-writing-essentials",
+      "description": "Unlock your storytelling skills and master creative writing.",
+      "price": 49.99,
+      "instructor": "Emily Bronte",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70"
+    },
+    {
+      "id": 9,
+      "title": "Learn Python by Building Apps",
+      "slug": "learn-python-by-building-apps",
+      "description": "Build real-world applications using Python step-by-step.",
+      "price": 109.99,
+      "instructor": "Alex Kim",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981d"
+    },
+    {
+      "id": 10,
+      "title": "UX/UI Design Principles",
+      "slug": "ux-ui-design-principles",
+      "description": "Design beautiful, user-friendly interfaces and experiences.",
+      "price": 119.0,
+      "instructor": "Nina Patel",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051"
+    },
+    {
+      "id": 11,
+      "title": "Photography for Instagram",
+      "slug": "photography-for-instagram",
+      "description": "Stand out on social media with stunning photos and editing tips.",
+      "price": 45.0,
+      "instructor": "Liam Johnson",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+    },
+    {
+      "id": 12,
+      "title": "Fitness at Home",
+      "slug": "fitness-at-home",
+      "description": "No gym? No problem. Get fit with these home workout routines.",
+      "price": 39.99,
+      "instructor": "Rachel Lee",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70"
+    },
+    {
+      "id": 13,
+      "title": "Basics of Digital Marketing",
+      "slug": "basics-of-digital-marketing",
+      "description": "Learn SEO, PPC, email campaigns, and social media marketing.",
+      "price": 89.5,
+      "instructor": "David Chen",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+    },
+    {
+      "id": 14,
+      "title": "Drawing for Beginners",
+      "slug": "drawing-for-beginners",
+      "description": "Start your artistic journey with pencil, sketch, and shading basics.",
+      "price": 29.99,
+      "instructor": "Anna Rivera",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70"
+    },
+    {
+      "id": 15,
+      "title": "Investing 101",
+      "slug": "investing-101",
+      "description": "Understand stocks, ETFs, and build your financial portfolio.",
+      "price": 149.0,
+      "instructor": "Warren Edwards",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1611078489935-f25d360fa4e5"
+    }
+  ]
+}
